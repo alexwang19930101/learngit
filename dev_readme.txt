@@ -1,1 +1,1 @@
-dev_readme.txt
+./dev_readme.txt
